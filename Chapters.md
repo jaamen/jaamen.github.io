@@ -1,7 +1,7 @@
 ---
 title: Chapters
 layout: default
-permalink: jaamen.github.io/Chapters.md
+permalink: /chapters/
 ---
 
 <h2> Chapter 1 </h2>
