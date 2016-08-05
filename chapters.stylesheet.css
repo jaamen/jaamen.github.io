@@ -1,4 +1,6 @@
-.header {background-color: blue;}
+.header {
+  margin: 0px;
+  background-color: black;}
 .header h2{color: green;}
 
 h2{font-family: palatino, 'Palatino Linotype', serif; 
