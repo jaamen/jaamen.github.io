@@ -1,14 +1,15 @@
 .header {
   background-color: black;
-  border: 1px;
   margin: 0px;
   padding: 0px;
 }
 .header h2{color: white;
   margin: 0px;
+  padding: 0px;
 }
 .header h3{color: white;
   margin: 0px;
+  padding: 0px;
 }
 
 h2{font-family: palatino, 'Palatino Linotype', serif; 
