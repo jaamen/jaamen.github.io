@@ -1,12 +1,15 @@
 .header {
   background-color: black;
   border: 1px;
-  body{
-    margin: 0;
-    padding: 0;}
+  margin: 0px;
+  padding: 0px;
 }
-.header h2{color: white;}
-.header h3{color: white;}
+.header h2{color: white;
+  margin: 0px;
+}
+.header h3{color: white;
+  margin: 0px;
+}
 
 h2{font-family: palatino, 'Palatino Linotype', serif; 
 font-size: 32px; 
