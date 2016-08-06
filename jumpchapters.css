@@ -22,10 +22,10 @@ width: 100%;
  }
 .chapters li{
  font-size: 20px;
- display: inline;
+ display: inline-block;
 }
 .chapters ul{
-  display: inline;
+  display: inline-block;
 }
 .footer {
   position: absolute;
