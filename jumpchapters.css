@@ -1,6 +1,8 @@
-
+html, body {
+  min-height: 100%;
+  margin: 0;
+}
 body {
-min-height: 100%; 
 margin: 0px;
   margin-top: -10px;
   padding: 0px;
@@ -24,8 +26,6 @@ width: 100%;
  }
 .chapters {
  font-size: 24px;
- display: inline;
- float: right;
 }
 .footer {
  border-top: 1px solid #000;
