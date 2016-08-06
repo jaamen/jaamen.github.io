@@ -9,7 +9,7 @@ body {
   border-bottom: 1px solid #000;
 }
 .home { 
- float: left;
+ text-align: right;
  font-size: 20px;
 }
 h2{ 
