@@ -4,6 +4,7 @@ body {
 }
 .header {
   background-color: black;
+  line-height: 100px;
 }
 .header h2{color: white;
 }
