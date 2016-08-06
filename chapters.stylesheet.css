@@ -36,6 +36,7 @@ p{
 .footer {
  border: 1px solid #000;
  }
+.about-me{display:inline;}
 .next-chapter {
  display: inline;
  float: right;}
