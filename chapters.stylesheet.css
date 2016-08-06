@@ -4,9 +4,9 @@ body {
 }
 .header {
   background-color: black;
-  margin-top: -20px;
 }
 .header h2{color: white;
+margin-top: -20px;
 }
 .header h3{color: white;
 }
