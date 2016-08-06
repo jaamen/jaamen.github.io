@@ -13,6 +13,9 @@ body {
 .header h3{color: black;
 }
 
+.home {display: inline;
+margin-left: 100px;}
+
 h2{font-family: palatino, 'Palatino Linotype', serif; 
 font-size: 32px; 
 color: black;
