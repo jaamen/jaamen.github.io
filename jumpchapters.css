@@ -29,6 +29,7 @@ width: 100%;
 }
 .chapters ul{
   display: inline-block;
+  font-size: 0px;
 }
 .footer {
   position: absolute;
