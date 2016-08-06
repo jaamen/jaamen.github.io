@@ -1,13 +1,13 @@
 body {
   margin-top: -10px;
   padding: 0px;
+  margin: 0px;
 }
 .header {
   background-color: orange;
   border: 1px solid #000;
 }
 .header h2{color: white;
-
 }
 .header h3{color: white;
 }
