@@ -35,8 +35,13 @@ p{
 
 .footer {
  border: 1px solid #000;
+ line-height: 50px;
  }
-.about-me{display:inline;}
+.about-me{display:inline;
+ margin-left: 50px;
+}
 .next-chapter {
  display: inline;
- float: right;}
+ float: right;
+ margin-right: 50px;
+}
