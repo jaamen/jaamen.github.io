@@ -34,7 +34,8 @@ p{
 }
 
 .footer {
- border: 2px solid #000;
+ border: 1px solid #000;
+ }
+.next-chapter {
  display: inline;
-}
-.next-chapter {float: right;}
+ float: right;}
