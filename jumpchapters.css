@@ -21,8 +21,10 @@ font-size: 24px;
 width: 100%;
  }
 .chapters li{
+ text-align: center;
  font-size: 20px;
  display: inline-block;
+ padding: 50px;
 }
 .chapters ul{
   display: inline-block;
