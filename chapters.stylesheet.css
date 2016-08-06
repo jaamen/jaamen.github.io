@@ -35,5 +35,6 @@ p{
 
 .footer {
  border: 1px solid #000;
+ display: inline;
 }
 .next-chapter {float: right;}
