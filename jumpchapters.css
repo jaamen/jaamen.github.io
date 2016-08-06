@@ -9,6 +9,7 @@ body {
   border-bottom: 1px solid #000;
 }
 .home{
+ display: inline;
  font-size: 20px
  float: left;
 }
