@@ -15,7 +15,7 @@ body {
 
 h2{font-family: palatino, 'Palatino Linotype', serif; 
 font-size: 32px; 
-color: red;
+color: black;
 text-align: center;  
 width: 100%;
 }
@@ -27,6 +27,7 @@ width: 100%;}
 
 p{
   font-size: 20px;
-  margin: 100px;
+  margin-left: 100px;
+  margin-right:100px;
   text-indent: 50px;
 }
