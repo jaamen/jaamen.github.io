@@ -1,3 +1,6 @@
+html, body {
+ min-height:100%;
+}
 body {
  margin: 0px;
   margin-top: -10px;
@@ -22,6 +25,7 @@ width: 100%;
  }
 .chapters {
  font-size: 24px;
+ display: inline;
 }
 .footer {
  border-top: 1px solid #000;
