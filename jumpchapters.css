@@ -17,11 +17,15 @@ h2{
 font-size: 32px; 
 color: black;
 width: 100%;
-display: inline;
 }
 h3{ 
 font-size: 24px; 
-width: 100%;}
+width: 100%;
+ }
+h4{
+ font size: 24px; 
+ display: inline;
+}
 
 .footer {border-top: 1px solid black;}
 
