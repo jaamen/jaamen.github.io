@@ -4,6 +4,7 @@ margin: 0px;
   padding: 0px;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
  text-align: center;
+ font-size: 0;
 }
 .header {
   border-bottom: 1px solid #000;
