@@ -19,8 +19,9 @@ width: 100%;
  }
 a{
  font-size: 24px; 
- float: right;
+ float: left;
  display: inline;
+ margin: 50px;
 }
 
 .footer {border-top: 1px solid black;}
