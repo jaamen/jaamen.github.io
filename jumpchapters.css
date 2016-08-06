@@ -26,6 +26,7 @@ width: 100%;
  font-size: 30px;
  display: inline-block;
  padding: 75px;
+ margin-left: -5px;
 }
 .chapters ul{
   display: inline-block;
