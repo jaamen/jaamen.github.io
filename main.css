@@ -12,3 +12,14 @@ body {
 .header h2{color: black;
 }
 .header h3{color: black;}
+
+h2{ 
+font-size: 32px; 
+color: black;
+text-align: center;  
+width: 100%;
+}
+h3{ 
+font-size: 24px; 
+text-align: center;  
+width: 100%;}
