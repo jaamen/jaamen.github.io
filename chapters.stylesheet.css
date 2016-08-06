@@ -1,10 +1,10 @@
 body {
   margin: 0px;
   padding: 0px;
+  margin-top: -10px;
 }
 .header {
   background-color: black;
-  line-height: 100px;
 }
 .header h2{color: white;
 }
