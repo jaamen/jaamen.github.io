@@ -25,11 +25,12 @@ width: 100%;
  text-align: center;
  font-size: 30px;
  display: inline-block;
- padding: 75px;
+ margin: 40px;
 }
 .chapters ul{
   display: inline-block;
   font-size: 0;
+  padding: 0px;
 }
 .footer {
   position: absolute;
