@@ -22,12 +22,8 @@ h3{
 font-size: 24px; 
 width: 100%;
  }
-.chapters{
- font-size: 24px; 
- float: left;
- display: inline;
- margin: 50px;
-}
+
+.contactme {font size:20px;}
 
 .footer {border-top: 1px solid black;}
 
