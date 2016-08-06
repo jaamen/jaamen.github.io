@@ -3,7 +3,8 @@ body {
   padding: 0px;
 }
 .header {
-  background-color: black;
+  background-color: orange;
+  border: 1px solid #000;
 }
 .header h2{color: white;
 margin-top: -10px;
