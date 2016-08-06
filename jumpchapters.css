@@ -8,7 +8,7 @@ body {
 .header {
   border-bottom: 1px solid #000;
 }
-.home{
+.home a{
  display: inline;
  font-size: 20px;
  float: left;
