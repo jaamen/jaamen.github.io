@@ -3,22 +3,27 @@ body {
   margin-top: -10px;
   padding: 0px;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
- 
 }
 .header {
-  background-color: white;
   border-bottom: 1px solid #000;
   height: 140px;
+  background-image: url(http://i.imgur.com/GgxWJGy.jpg);
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: 0;
+  padding: 1rem;
 }
-.header h2{color: black;
+.header h2{color: white;
 }
-.header h3{color: black;
+.header h3{color: white;
 }
 
 .home {display: inline;
 margin-left: 100px;
  font-size: 20px;
- color: black;
+ color: white;
 }
 
 h2{ 
