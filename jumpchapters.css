@@ -60,4 +60,4 @@ color: white;
 .contactme {color: white;}
 
 .chapters:link, .chapters:visited, .chapters:hover, .chapters:active {color: black; text-decoration: none;}
-a:link, a:visited, a:chapters, a:active {color: white; text-decoration: none;}
+.home:link, .home:visited, .home:chapters, .home:active {color: white; text-decoration: none;}
