@@ -8,6 +8,7 @@ body {
 .header {
   background-color: white;
   border-bottom: 1px solid #000;
+  height: 120px;
 }
 .header h2{color: black;
 }
@@ -42,6 +43,7 @@ p{
 .footer {
  border-top: 1px solid #000;
  line-height: 50px;
+ height: 60px;
  }
 .about-me{display:inline;
  margin-left: 100px;
