@@ -1,7 +1,6 @@
 body {
  margin: 0px;
   padding: 0px;
-  margin-bottom: 200px;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .header {
@@ -9,7 +8,7 @@ body {
   height: 140px;
   background-image: url(http://i.imgur.com/GgxWJGy.jpg);
   background-size: cover;
-  position: absolute;
+  position: relative;
   right: 0;
   top: 0;
   left: 0;
@@ -61,11 +60,13 @@ p{
 .about-me{display:inline;
  margin-left: 100px;
  font-size: 20px;
+ color: white;
 }
 .next-chapter {
  display: inline;
  float: right;
  margin-right: 100px;
  font-size: 20px;
+ color: white;
 }
 a:link, a:visited, a:hover, a:active { color: white; text-decoration: none;}
