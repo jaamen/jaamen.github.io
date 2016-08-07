@@ -7,6 +7,7 @@ margin: 0px;
 }
 .header {
   border-bottom: 1px solid #000;
+  height: 140px;
 }
 .home { 
  text-align: right;
@@ -33,6 +34,7 @@ width: 100%;
   padding: 0px;
 }
 .footer {
+  height: 60px;
   position: absolute;
   right: 0;
   bottom: 0;
