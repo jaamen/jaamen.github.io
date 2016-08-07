@@ -19,7 +19,9 @@ body {
 }
 .header h3{color: white;}
 
-.content {margin-top:200px;}
+.content {margin-top:200px;
+ margin-bottom: 200px;
+}
 
 h2{ 
 font-size: 32px; 
@@ -41,6 +43,8 @@ width: 100%;}
 
 .footer {
  border-top: 1px solid black;
+ background-image: url(http://i.imgur.com/GgxWJGy.jpg);
+ background-size: cover;
  height: 60px;
  padding: 1rem;
 }
