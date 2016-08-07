@@ -59,5 +59,14 @@ color: white;
 }
 .contactme {color: white;}
 
-a.chapters:link, a.chapters:visited, a.chapters:hover, a.chapters:active { color: black; text-decoration: none;}
-a.home:link, a.home:visited, a.home:hover, a.home:active {color: white; text-decoration: none;}
+a.chapters {color:black;}
+a.chapters:link  {text-decoration: none; color: black;}
+a.chapters:visited {text-decoration: none; color: black;}
+a.chapters:hover {text-decoration: none; color: black;}
+a.chapters:active {text-decoration: none; color: black;}
+
+a.home {color:white;}
+a.home:link {text-decoration: none; color: white;}
+a.home:visited {text-decoration: none; color: white;}
+a.home:hover {text-decoration: none; color: white;}
+a.home:active {text-decoration: none; color: white;}
