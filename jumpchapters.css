@@ -25,10 +25,12 @@ margin: 0px;
 h2{ 
 font-size: 32px; 
 width: 100%;
+color: white;
 }
 h3{ 
 font-size: 24px; 
 width: 100%;
+color: white;
  }
 .chapters li{
  text-align: center;
@@ -53,4 +55,4 @@ width: 100%;
   padding: 1rem;
   border-top: 1px solid #000;
 }
-a:link, a:visited, a:hover, a:active { color: white; text-decoration: none;}
+a:link, a:visited, a:hover, a:active {text-decoration: none;}
