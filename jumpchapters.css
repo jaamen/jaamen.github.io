@@ -7,7 +7,14 @@ margin: 0px;
 }
 .header {
   border-bottom: 1px solid #000;
-  height: 140px;
+  height: 150px; 
+  background-image: url(http://i.imgur.com/GgxWJGy.jpg);
+  background-size: cover;
+  position: relative;
+  right: 0;
+  top: 0;
+  left: 0;
+  padding: 1rem;
 }
 .home { 
  text-align: right;
