@@ -9,7 +9,7 @@ body {
   height: 150px; 
   background-image: url(http://i.imgur.com/GgxWJGy.jpg);
   background-size: cover;
-  position: absolute;
+  position: relative;
   right: 0;
   top: 0;
   left: 0;
