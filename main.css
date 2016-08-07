@@ -1,6 +1,5 @@
 body {
  margin: 0px;
-  margin-top: 200px;
   padding: 0px;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
  text-align: center;
@@ -29,7 +28,6 @@ width: 100%;}
 
 .chapter-1{
  margin: 100px;
-margin-top: 200px;
  font-size: 24px;
 }
 
