@@ -4,6 +4,8 @@ body {
   padding: 0px;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
  text-align: center;
+ background-image: url(http://i.imgur.com/vXhzTf3.jpg);
+  background-size: cover;
 }
 .header {
   background-color: white;
