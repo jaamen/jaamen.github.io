@@ -15,9 +15,9 @@ body {
   left: 0;
   padding: 1rem;
 }
-.header h2{color: black;
+.header h2{color: white;
 }
-.header h3{color: black;}
+.header h3{color: white;}
 
 .content {margin-top:200px;}
 
