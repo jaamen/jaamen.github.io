@@ -1,1 +1,36 @@
+body {
+margin: 0px;
+  margin-top: -10px;
+  padding: 0px;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+ text-align: center;
+}
+.header {
+  border-bottom: 1px solid #000;
+}
+.home { 
+ text-align: right;
+ font-size: 20px;
+ margin-right: 50px;
+}
+h2{ 
+font-size: 32px; 
+width: 100%;
+}
+h3{ 
+font-size: 24px; 
+width: 100%;
+ }
+.contactme {
+  font-size: 20px;
+}  
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+ border-top: 1px solid #000;
+}
+a:link, a:visited, a:hover, a:active { color: black; text-decoration: none;}
 
