@@ -37,6 +37,7 @@ color: white;
  font-size: 50px;
  display: inline-block;
  margin: 60px;
+ color: black;
 }
 .chapters ul{
   display: inline-block;
@@ -55,4 +56,5 @@ color: white;
   padding: 1rem;
   border-top: 1px solid #000;
 }
-a:link, a:visited, a:hover, a:active {text-decoration: none;}
+.contactme {color: white;}
+a:link, a:visited, a:hover, a:active {color: white; text-decoration: none;}
