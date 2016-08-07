@@ -21,6 +21,9 @@ h3{
 font-size: 24px; 
 width: 100%;
  }
+.contactme {
+  font-size: 20px;
+}  
 .footer {
   position: absolute;
   right: 0;
