@@ -58,4 +58,6 @@ color: white;
   border-top: 1px solid #000;
 }
 .contactme {color: white;}
-a:link, a:visited, a:hover, a:active {color: white; text-decoration: none;}
+
+.chapters:link, .chapters:visited, .chapters:hover, .chapters:active {color: black; text-decoration: none;}
+a:link, a:visited, a:chapters, a:active {color: white; text-decoration: none;}
