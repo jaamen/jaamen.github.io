@@ -1,7 +1,7 @@
 body {
  margin: 0px;
-  margin-top: -10px;
   padding: 0px;
+  margin-bottom: 200px;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .header {
@@ -23,7 +23,7 @@ body {
 .home {display: inline;
 margin-left: 100px;
  font-size: 20px;
- color: white;
+color: white;
 }
 
 h2{ 
