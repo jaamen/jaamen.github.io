@@ -24,7 +24,7 @@ background-color: red;
 padding: 8px 18px;
 border-radius: 10px;
 }
-.header h3{color: white; display: inline; text-align: center;
+.header h3{color: white; display: inline; position: center;
 }
 h2{ 
 font-size: 32px; 
