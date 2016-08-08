@@ -32,7 +32,7 @@ width: 100%;
 color: white;
  }
 .chapters li{
- text-align: right;
+ text-align: left;
  font-size: 50px;
  margin: 60px;
  color: black;
@@ -40,11 +40,12 @@ color: white;
 }
 .chapters ul{
   display: inline-block;
-  text-align: right;
+  text-align: left;
   font-size: 0;
   padding: 0px;
   margin: 0 auto;
   color: black;
+  margin-left: 50px;
 }
 .footer {
   height: 60px;
