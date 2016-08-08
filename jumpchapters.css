@@ -57,7 +57,7 @@ color: white;
   border-top: 1px solid #000;
 }
 .contactme {color: white;}
-.home a:link, a:visited, a:hover, a:active {text-decoration: none; color: white;}
-.chapters a:link, a:visited, a:hover, a:active {color: black; text-decoration: none;}
+
+a:link, a:visited, a:hover, a:active {text-decoration: none;}
 
 
