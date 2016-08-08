@@ -37,10 +37,11 @@ color: white;
  margin: 60px;
  color: black;
  display: inline-block;
- position: relative;
+ position: absolute;
 }
 .chapters ul{
   display: inline-block;
+  position: relative;
   font-size: 0;
   padding: 0px;
   margin: 0 auto;
