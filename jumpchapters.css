@@ -58,5 +58,5 @@ color: white;
   border-top: 1px solid #000;
 }
 .contactme {color: white;}
-a.home:link, a.home:visited, a.home:hover, a.home:active {text-decoration: none; color: black;}
+a.header:link, a.header:visited, a.header:hover, a.header:active {text-decoration: none; color: black;}
 
