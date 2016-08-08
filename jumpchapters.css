@@ -58,14 +58,14 @@ color: white;
 }
 .contactme {color: white;}
 
-a.chapters:link{color black; text-decoration: none;}
-a.chapters:visited{color black; text-decoration: none;}
-a.chapters:hover{color black; text-decoration: none;}
-a.chapters:active{color black; text-decoration: none;}
+.chapters:link{color black; text-decoration: none;}
+.chapters:visited{color black; text-decoration: none;}
+.chapters:hover{color black; text-decoration: none;}
+.chapters:active{color black; text-decoration: none;}
 
-a.home:link{color black; text-decoration: none;}
-a.home:visited{color black; text-decoration: none;}
-a.home:hover{color black; text-decoration: none;}
-a.home:active{color: white; text-decoration: none;}
+.home:link{color black; text-decoration: none;}
+.home:visited{color black; text-decoration: none;}
+.home:hover{color black; text-decoration: none;}
+.home:active{color: white; text-decoration: none;}
 
 
