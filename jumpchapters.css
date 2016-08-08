@@ -36,12 +36,11 @@ color: white;
  font-size: 50px;
  margin: 60px;
  color: black;
- display: flex;
+ display: inline-block;
+ position: relative;
 }
 .chapters ul{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: inline-block;
   font-size: 0;
   padding: 0px;
   margin: 0 auto;
