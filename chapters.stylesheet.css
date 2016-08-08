@@ -21,7 +21,7 @@ body {
 
 .home {display: inline;
 margin-left: 100px;
-vertical-align: -20px;
+vertical-align: 20px;
  font-size: 20px;
 color: white;
 background-color: red;
