@@ -59,6 +59,6 @@ color: white;
 }
 .contactme {color: white;}
 .home a:link, a:visited, a:hover, a:active {text-decoration: none; color: white;}
-a.chapters:link, a.chapters:visited, a.chapters:hover, a.chapters:active {text-decoration: none; color: black;}
+.chapters a {color: black;}
 
 
