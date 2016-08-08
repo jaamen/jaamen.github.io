@@ -16,17 +16,16 @@ body {
 }
 .header h2{color: white;
 }
-.header h3{color: white;
+.header h3{color: white; display: inline;
 }
 
 .home {display: inline;
 margin-left: 100px;
-vertical-align: bottom;
  font-size: 20px;
 color: white;
 background-color: red;
 padding: 8px 18px;
-border-radius: 15px;
+border-radius: 10px;
 }
 
 h2{ 
