@@ -59,11 +59,11 @@ color: white;
 }
 .contactme {color: white;}
 
-a.chapters {color:black;}
-a.chapters:link  {text-decoration: none; color: black;}
-a.chapters:visited {text-decoration: none; color: black;}
-a.chapters:hover {text-decoration: none; color: black;}
-a.chapters:active {text-decoration: none; color: black;}
+a.chapters li {color:black;}
+a.chapters li:link  {text-decoration: none; color: black;}
+a.chapters li:visited {text-decoration: none; color: black;}
+a.chapters li:hover {text-decoration: none; color: black;}
+a.chapters li:active {text-decoration: none; color: black;}
 
 a.home {color:white;}
 a.home:link {text-decoration: none; color: white;}
