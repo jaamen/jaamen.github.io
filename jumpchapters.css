@@ -62,8 +62,8 @@ color: white;
 .chapters a:visited{color black; text-decoration: none;}
 .chapters a:hover{color black; text-decoration: none;}
 
-.header a:link{color black; text-decoration: none;}
-.header a:visited{color black; text-decoration: none;}
-.header a:hover{color black; text-decoration: none;}
+.header a:link{color white; text-decoration: none;}
+.header a:visited{color white; text-decoration: none;}
+.header a:hover{color white; text-decoration: none;}
 
 
