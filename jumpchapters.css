@@ -59,14 +59,4 @@ color: white;
 }
 .contactme {color: white;}
 
-a.chapters li {color:black;}
-a.chapters li:link  {text-decoration: none; color: black;}
-a.chapters li:visited {text-decoration: none; color: black;}
-a.chapters li:hover {text-decoration: none; color: black;}
-a.chapters li:active {text-decoration: none; color: black;}
-
-a.home {color:white;}
-a.home:link {text-decoration: none; color: white;}
-a.home:visited {text-decoration: none; color: white;}
-a.home:hover {text-decoration: none; color: white;}
-a.home:active {text-decoration: none; color: white;}
+a:link, a:visited:, a:hover, a:active {text-decoration: none; color: black;}
