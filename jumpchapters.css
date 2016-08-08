@@ -34,12 +34,14 @@ color: white;
 .chapters li{
  text-align: center;
  font-size: 50px;
- display: inline-block;
  margin: 60px;
  color: black;
+ display: flex;
 }
 .chapters ul{
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 0;
   padding: 0px;
   margin: 0 auto;
