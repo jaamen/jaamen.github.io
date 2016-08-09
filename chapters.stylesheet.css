@@ -17,11 +17,10 @@ body {
 }
 .header h2{color: white;
 }
-.by{color: white; display: block; font-size: 30px; text-decoration: bold;
+.by{color: white; display: inline-block; font-size: 30px; text-decoration: bold;
 }
 .home {
-display: block;
-float: left;
+display: inline-block;
  font-size: 20px;
 color: white;
 background-color: red;
@@ -29,8 +28,7 @@ padding: 8px 18px;
 border-radius: 10px;
 }
 .prevchapter {
- display: block;
- float: right;
+ display: inline-block;
  font-size: 20px;
 color: white;
 background-color: red;
@@ -38,7 +36,7 @@ padding: 8px 18px;
 border-radius: 10px;
 }
 .next-chapter {
- display: block;
+ display: inline-block;
  float: right;
  font-size: 20px;
 color: white;
@@ -77,8 +75,7 @@ p{
  margin-left: 100px;
  font-size: 20px;
  color: white;
- display: block;
- float:left;
+ display: inline-block;
 }
 
 a:link, a:visited, a:hover, a:active { color: white; text-decoration: none;}
