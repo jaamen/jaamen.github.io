@@ -1,0 +1,95 @@
+body {
+ margin: 0px;
+  padding: 0px;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+.header {
+  text-align: center;
+  border-bottom: 1px solid #000;
+  height: 150px;
+  background-image: url(http://i.imgur.com/GgxWJGy.jpg);
+  background-size: cover;
+  position: relative;
+  right: 0;
+  top: 0;
+  left: 0;
+  padding: 1rem;
+}
+.header h2{color: white;
+}
+.by{color: white; display: inline-block; float: center; font-size: 30px; text-decoration: bold; margin-right:-80px;
+}
+.home {
+display: inline-block;
+margin-left: 50px;
+ float: left;
+ font-size: 20px;
+color: white;
+background-color: red;
+padding: 8px 18px;
+border-radius: 10px;
+}
+.home a:active {
+  position: relative;
+  bottom: 2px;
+}
+.prevchapter {
+ display: inline-block;
+  margin-right: 50px;
+  float: right;
+ font-size: 20px;
+color: white;
+background-color: red;
+padding: 8px 18px;
+border-radius: 10px;
+}
+.next-chapter {
+ display: inline-block;
+ margin-right: 50px;
+ float: right;
+ font-size: 20px;
+color: white;
+background-color: red;
+padding: 8px 18px;
+border-radius: 10px;
+}
+h2{ 
+font-size: 32px; 
+color: black;
+text-align: center;  
+}
+h3{ 
+font-size: 24px; 
+text-align: center;  
+}
+p{
+  font-size: 20px;
+  margin-left: 100px;
+  margin-right:100px;
+  text-indent: 50px;
+  line-height: 1.5;
+}
+.footer {
+ text-align: center;
+ border-top: 1px solid #000;
+ height: 60px;
+ background-image: url(http://i.imgur.com/GgxWJGy.jpg);
+ background-size: cover;
+ position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+ padding: 1rem;
+ }
+.about-me{
+display: inline-block;
+ margin-left: 50px;
+ float: left;
+ font-size: 20px;
+color: white;
+background-color: red;
+padding: 8px 18px;
+border-radius: 10px;
+}
+
+a:link, a:visited, a:hover, a:active { color: white; text-decoration: none;}
