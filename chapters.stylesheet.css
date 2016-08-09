@@ -28,7 +28,7 @@ border-radius: 10px;
 }
 .header h3{color: white; display: block; float: center; margin-left: -120px;
 }
-.next-chapter {
+.header .next-chapter {
  float: right;
  display: block;
  margin-right: 100px;
