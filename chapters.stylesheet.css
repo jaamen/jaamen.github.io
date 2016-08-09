@@ -16,6 +16,8 @@ body {
 }
 .header h2{color: white;
 }
+.header h3{color: white; display: block; float: center; margin-left: -120px;
+}
 .home {
 display: block;
 margin-left: 100px;
@@ -26,15 +28,15 @@ background-color: red;
 padding: 8px 18px;
 border-radius: 10px;
 }
-.header h3{color: white; display: block; float: center; margin-left: -120px;
-}
-.header .next-chapter {
- float: right;
+.next-chapter {
  display: block;
- margin-right: 100px;
+margin-right: 100px;
+float: right;
  font-size: 20px;
- color: white;
- padding: 8px 18px;
+color: white;
+background-color: red;
+padding: 8px 18px;
+border-radius: 10px;
 }
 h2{ 
 font-size: 32px; 
@@ -65,7 +67,6 @@ p{
   right: 0;
   bottom: 0;
   left: 0;
-  height: 60px;
  padding: 1rem;
  }
 .about-me{
