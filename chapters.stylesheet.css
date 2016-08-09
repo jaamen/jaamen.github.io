@@ -17,7 +17,6 @@ body {
 .header h2{color: white;
 }
 .home {display: block;
-float: left;
 margin-left: 100px;
  font-size: 20px;
 color: white;
@@ -66,7 +65,6 @@ p{
 }
 .next-chapter {
  display: block;
- float: right;
  margin-right: 100px;
  font-size: 20px;
  color: white;
