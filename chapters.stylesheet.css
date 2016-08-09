@@ -29,6 +29,10 @@ background-color: red;
 padding: 8px 18px;
 border-radius: 10px;
 }
+.home a:active {
+  position: relative;
+  bottom: 2px;
+}
 .prevchapter {
  display: inline-block;
   margin-right: 50px;
