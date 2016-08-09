@@ -16,7 +16,7 @@ body {
 }
 .header h2{color: white;
 }
-.header h3{color: white; display: block; float: center; margin-left: 200px;
+.header h3{color: white; display: block; float: center; margin-left: -200px;
 }
 .home {
 display: block;
@@ -29,8 +29,6 @@ padding: 8px 18px;
 border-radius: 10px;
 }
 .next-chapter {
- display: block;
- float: right;
  font-size: 20px;
 color: white;
 background-color: red;
