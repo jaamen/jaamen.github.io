@@ -17,7 +17,7 @@ body {
 }
 .header h2{color: white;
 }
-.by{color: white; display: inline-block; float: center; font-size: 30px; text-decoration: bold; margin-left:20px;
+.by{color: white; display: inline-block; float: center; font-size: 30px; text-decoration: bold; margin-right:-40px;
 }
 .home {
 display: inline-block;
