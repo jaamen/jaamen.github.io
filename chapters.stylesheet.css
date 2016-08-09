@@ -16,10 +16,10 @@ body {
 }
 .header h2{color: white;
 }
-.header h3{color: white; display: block; float: center; margin-left: -120px;
+.header h3{color: white; display: inline-block; float: center; margin-left: -120px;
 }
 .home {
-display: block;
+display: inline-block;
 margin-left: 100px;
 float: left;
  font-size: 20px;
@@ -29,7 +29,7 @@ padding: 8px 18px;
 border-radius: 10px;
 }
 .next-chapter {
- display: block;
+ display: inline-block;
 margin-right: 100px;
 float: right;
  font-size: 20px;
