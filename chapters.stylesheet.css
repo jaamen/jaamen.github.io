@@ -18,13 +18,14 @@ body {
 }
 .home {display: block;
 margin-left: 100px;
+float: left;
  font-size: 20px;
 color: white;
 background-color: red;
 padding: 8px 18px;
 border-radius: 10px;
 }
-.header h3{color: white; display: block;
+.header h3{color: white; display: block; float:center;
 }
 h2{ 
 font-size: 32px; 
@@ -68,5 +69,6 @@ p{
  margin-right: 100px;
  font-size: 20px;
  color: white;
+ float: right;
 }
 a:link, a:visited, a:hover, a:active { color: white; text-decoration: none;}
