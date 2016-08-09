@@ -16,7 +16,7 @@ body {
 }
 .header h2{color: white;
 }
-.header h3{color: white; display: block; float: center;
+.by{color: white; display: block; float: center; font-size: 20px; text-decoration: bold;
 }
 .home {
 display: block;
