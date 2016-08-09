@@ -28,6 +28,16 @@ background-color: red;
 padding: 8px 18px;
 border-radius: 10px;
 }
+.prevchapter {
+ display: block;
+ float: right;
+ font-size: 20px;
+ margin-right: 100px;
+color: white;
+background-color: red;
+padding: 8px 18px;
+border-radius: 10px;
+}
 .next-chapter {
  display: block;
  float: right;
