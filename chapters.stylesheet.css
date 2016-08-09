@@ -49,13 +49,11 @@ h2{
 font-size: 32px; 
 color: black;
 text-align: center;  
-width: 100%;
 }
 h3{ 
 font-size: 24px; 
 text-align: center;  
-width: 100%;}
-
+}
 p{
   font-size: 20px;
   margin-left: 100px;
@@ -63,7 +61,6 @@ p{
   text-indent: 50px;
   line-height: 1.5;
 }
-
 .footer {
  border-top: 1px solid #000;
  height: 60px;
