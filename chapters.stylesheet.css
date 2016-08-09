@@ -16,7 +16,7 @@ body {
 }
 .header h2{color: white;
 }
-.by{color: white; display: block; float: center; font-size: 20px; text-decoration: bold;
+.by{color: white; display: block; float: center; font-size: 20px; text-decoration: bold; text-align: center;
 }
 .home {
 display: block;
