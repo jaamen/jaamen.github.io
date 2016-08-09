@@ -4,6 +4,7 @@ body {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .header {
+  text-align: center;
   border-bottom: 1px solid #000;
   height: 150px;
   background-image: url(http://i.imgur.com/GgxWJGy.jpg);
@@ -16,7 +17,7 @@ body {
 }
 .header h2{color: white;
 }
-.by{color: white; display: block; font-size: 24px; text-decoration: bold; text-align: center;
+.by{color: white; display: block; font-size: 30px; text-decoration: bold;
 }
 .home {
 display: block;
