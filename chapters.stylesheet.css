@@ -17,7 +17,7 @@ body {
 }
 .header h2{color: white;
 }
-.by{color: white; display: inline-block; font-size: 30px; text-decoration: bold;
+.by{color: white; display: inline-block; font-size: 30px; text-decoration: bold; margin-left:20px;
 }
 .home {
 display: inline-block;
@@ -76,10 +76,14 @@ p{
  padding: 1rem;
  }
 .about-me{
- margin-left: 100px;
+ margin-left: 50px;
  font-size: 20px;
  color: white;
- display: inline-block;
+  display: inline-block;
+  float: left
+background-color: red;
+padding: 8px 18px;
+border-radius: 10px;
 }
 
 a:link, a:visited, a:hover, a:active { color: white; text-decoration: none;}
