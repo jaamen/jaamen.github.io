@@ -19,7 +19,7 @@ body {
 }
 .line {display: inline-block;}
 .header h3{color: white;}
-.more{color:white;}
+.more{color:white;float:left;}
 h2{ 
 font-size: 32px; 
 color: black;
