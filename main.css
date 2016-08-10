@@ -22,11 +22,10 @@ body {
 h2{ 
 font-size: 32px; 
 color: black;
-width: 100%;
 }
 h3{ 
 font-size: 24px; 
-width: 100%;}
+}
 
 .chapter-1{
  margin: 100px;
