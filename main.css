@@ -17,8 +17,8 @@ body {
 }
 .header h2{color: white;
 }
-.by{color: white;display: inline-block; vertical-align: center;}
-.more{color:white;float:left;display: inline-block;}
+.by{color: white;display: inline-block; vertical-align: center;font-size: 24px;}
+.more{color:white;float:left;display: inline-block; font-size: 20px;}
 h2{ 
 font-size: 32px; 
 color: black;
