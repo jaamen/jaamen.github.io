@@ -17,7 +17,7 @@ body {
 }
 .header h2{color: white;
 }
-.line {display: inline;}
+.line {display: inline-block;}
 .header h3{color: white;}
 .more{color:white;}
 h2{ 
