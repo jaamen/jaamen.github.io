@@ -17,8 +17,8 @@ body {
 }
 .header h2{color: white;
 }
-.header h3{color: white;}
-
+.header h3{color: white; display: inline;}
+.header more{color:white; display: inline;}
 h2{ 
 font-size: 32px; 
 color: black;
