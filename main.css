@@ -41,7 +41,7 @@ width: 100%;}
  border-top: 1px solid black;
  background-image: url(http://i.imgur.com/GgxWJGy.jpg);
  background-size: cover;
- position: absolute;
+ position: relative;
   right: 0;
   bottom: 0;
   left: 0;
