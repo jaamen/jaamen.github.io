@@ -25,6 +25,7 @@ body {
   margin-top: 5px;
   min-width: 105px;
   display: none;
+  background-color: white;
 }
 .dropdown-menu li a {
   color: #898989;
