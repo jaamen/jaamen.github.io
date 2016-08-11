@@ -25,6 +25,11 @@ body {
   margin-top: 5px;
   min-width: 105px;
 }
+.dropdown-menu li a {
+  color: #898989;
+  padding: 6px 20px;
+  font-weight: 300;
+}
 h2{ 
 font-size: 32px; 
 color: black;
