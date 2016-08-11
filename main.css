@@ -30,6 +30,7 @@ body {
   color: #898989;
   padding: 6px 20px;
   font-weight: 300;
+  display: none;
 }
 h2{ 
 font-size: 32px; 
