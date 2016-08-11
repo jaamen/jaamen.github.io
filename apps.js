@@ -1,8 +1,8 @@
 
 
 var main = function () {
-  $('.dropdown-toggle').click(function() {
-    $('.dropdown-menu').toggle()
+  $('.dropdown-menu').click(function() {
+    $('.dropdown-toggle').toggle()
   });
 }
 $(document).ready(main);
