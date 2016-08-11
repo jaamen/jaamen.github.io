@@ -2,7 +2,7 @@
 
 var main = function () {
   $('.dropdown-toggle').click(function() {
-    $'.dropdown-menu').toggle()
+    $('.dropdown-menu').toggle()
   });
 }
 $(document).ready(main);
