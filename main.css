@@ -24,9 +24,9 @@ body {
   font-size: 16px;
   margin-top: 5px;
   min-width: 105px;
-  display: none;
   color: red;
   background-color: blue;
+  display: none;
 }
 .dropdown-menu li a {
   color: #898989;
