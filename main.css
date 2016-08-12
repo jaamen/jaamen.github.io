@@ -29,14 +29,7 @@ body {
   background-color: orange;
   display: none;
 }
-.dropdown-menu li a {
-  color: #898989;
-  padding: 6px 20px;
-  font-weight: 300;
-  color: red;
-  background-color: blue;
-  display: none;
-}
+
 h2{ 
 font-size: 32px; 
 color: black;
