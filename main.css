@@ -21,11 +21,12 @@ body {
 .by{color: white;display: inline-block; vertical-align: center;font-size: 24px;}
 .dropdown-toggle{text-align: left;color:white; margin-left: -600px; display: inline-block; font-size: 20px; position: absolute;}
 .dropdown-menu {
+  text-align: left;
   font-size: 16px;
   margin-top: 5px;
   min-width: 105px;
   color: red;
-  background-color: blue;
+  background-color: orange;
   display: none;
 }
 .dropdown-menu li a {
