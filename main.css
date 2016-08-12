@@ -25,11 +25,12 @@ body {
   font-size: 20px;
   margin-top: 10px;
   color: black;
-  background-color: white;
+  background-color: blue;
   display: none;
   border: 1px solid #000;
   list-style-type: none;
 }
+.dropdown-menu li {margin: 20px;}
 .dropdown-menu li a{
  margin: 20px;
  margin-left: -25px;
