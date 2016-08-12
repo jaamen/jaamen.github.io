@@ -31,7 +31,8 @@ body {
   list-style-type: none;
 }
 .dropdown-menu li a{
- margin: 10px;
+ margin: 20px;
+ margin-left: -25px;
  border-bottom: 1px solid black;
 }
 h2{ 
