@@ -29,12 +29,10 @@ body {
   display: none;
   border: 1px solid #000;
   list-style-type: none;
-  padding: 30px;
 }
+.dropdown-menu ul a{margin: 30px; border-bottom: 1px solid black;}
 .dropdown-menu li a{
- padding: 30px;
  margin-left: -25px;
- border-bottom: 1px solid black;
 }
 h2{ 
 font-size: 32px; 
