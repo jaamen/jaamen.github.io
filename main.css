@@ -24,7 +24,6 @@ body {
   text-align: left;
   font-size: 20px;
   margin-top: 10px;
-  min-width: 200px;
   color: black;
   background-color: white;
   display: none;
@@ -32,6 +31,7 @@ body {
   list-style-type: none;
 }
 .dropdown-menu li a{
+ margin: 10px;
  border-bottom: 1px solid black;
 }
 h2{ 
