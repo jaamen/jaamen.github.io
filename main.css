@@ -32,7 +32,6 @@ body {
 }
 .dropdown-menu li a{
  margin-left: -25px;
- margin: 0 0 10px 0;
  border-bottom: 1px solid black;
 }
 h2{ 
