@@ -18,7 +18,7 @@ body {
 }
 .header h2{color: white;
 }
-.by{color: white;display: inline-block; vertical-align: center;font-size: 24px; text-decoration: none;}
+.by{color: white;display: inline-block; vertical-align: center;font-size: 24px;}
 .dropdown-toggle{text-align: left;color:white; margin-left: -600px; display: inline-block; font-size: 20px; position: absolute;}
 .dropdown-menu {
   text-align: left;
@@ -28,9 +28,12 @@ body {
   color: black;
   background-color: white;
   display: none;
-  border-bottom: 1px solid #000;
+  border: 1px solid #000;
+  text-decoration: none;
 }
-
+.dropdown-menu li a{
+ border: 1px solid black;
+}
 h2{ 
 font-size: 32px; 
 color: black;
