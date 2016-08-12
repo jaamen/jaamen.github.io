@@ -30,9 +30,10 @@ body {
   border: 1px solid #000;
   list-style-type: none;
 }
-.dropdown-menu ul a{margin: 30px; border-bottom: 1px solid black;}
 .dropdown-menu li a{
  margin-left: -25px;
+ margin: 0 0 10px 0;
+ border-bottom: 1px solid black;
 }
 h2{ 
 font-size: 32px; 
