@@ -30,7 +30,7 @@ body {
   border: 1px solid #000;
   list-style-type: none;
 }
-.dropdown-menu li {margin: 20px;border-bottom: 1px solid black;}
+.dropdown-menu li {margin: 20px;border-bottom: 1px solid black;margin-left: -25px;}
 .dropdown-menu li a{
  margin: 20px;
  margin-left: -25px;
