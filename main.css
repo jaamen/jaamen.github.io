@@ -29,9 +29,10 @@ body {
   display: none;
   border: 1px solid #000;
   list-style-type: none;
+  padding: 30px;
 }
 .dropdown-menu li a{
- margin: 20px;
+ padding: 30px;
  margin-left: -25px;
  border-bottom: 1px solid black;
 }
