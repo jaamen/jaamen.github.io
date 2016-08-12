@@ -19,7 +19,7 @@ body {
 .header h2{color: white;
 }
 #by{color: white;display: inline-block; vertical-align: center;font-size: 24px;}
-#dropdown-toggle{text-align: left;color:white; margin-left: -600px; margin-top:-20px; display: inline-block; font-size: 20px; position: absolute;}
+#dropdown-toggle{text-align: center;color:white; margin-left: -600px; margin-top:-20px; display: inline-block; font-size: 20px; position: absolute;}
 .dropdown-menu {
   margin-right: -150px;
   text-align: center;
