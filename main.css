@@ -22,12 +22,13 @@ body {
 .dropdown-toggle{text-align: left;color:white; margin-left: -600px; display: inline-block; font-size: 20px; position: absolute;}
 .dropdown-menu {
   text-align: left;
-  font-size: 16px;
-  margin-top: 5px;
-  min-width: 105px;
+  font-size: 20px;
+  margin-top: 10px;
+  min-width: 150px;
   color: black;
-  background-color: orange;
+  background-color: white;
   display: none;
+  border-bottom: 1px solid #000;
 }
 
 h2{ 
