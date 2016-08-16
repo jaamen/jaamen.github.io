@@ -62,5 +62,6 @@ font-size: 24px;
   height: 40px;
 }
 .sliderbuttons {color: blue;}
+.material-icons {padding: 50px;}
 
 a:link, a:visited, a:hover, a:active { color: black; text-decoration: none;}
