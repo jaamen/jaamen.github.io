@@ -44,7 +44,7 @@ color: black;
 h3{ 
 font-size: 24px; 
 }
-
+.sliderbuttons {color: blue; position: absolute; display: inline-block;}
 .chapter-1{
  margin: 100px;
  font-size: 24px;
