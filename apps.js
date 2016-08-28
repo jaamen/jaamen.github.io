@@ -6,11 +6,17 @@ var main = function () {
   $('.arrow-forward').click(function() {
     var currentSlide = $('.active-slide');
     var nextSlide = currentSlide.next();
+  
+    currentSlide.fadeOut(600).removeClass('active-slide');
+    nextSlide.fadeIn(600).addClass('active-slide');
   });
 
   $('#arrow-back').click(function() {
     var currentSlide = $('.active-slide');
     var prevSlide = currentSlide.prev();
+  
+    currentSlide.fadeOut(600).removeClass('active-slide');
+    prevSlide.fadeIn(600).addClass('active-slide');
   });  
 }  
 $(document).ready(main);
