@@ -3,12 +3,12 @@ var main = function () {
     $('.dropdown-menu').toggle()
   });
 
-  $('.arrow-back').click(function() {
+  $('#arrow-forward').click(function() {
     var currentSlide = $('.active-slide');
     var nextSlide = currentSlide.next();
   });
 
-  $('.arrow-forward').click(function() {
+  $('#arrow-back').click(function() {
     var currentSlide = $('.active-slide');
     var prevSlide = currentSlide.prev();
   });  
