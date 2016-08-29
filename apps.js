@@ -9,6 +9,10 @@ var main = function () {
   
     currentSlide.fadeOut(600).removeClass('active-slide');
     nextSlide.fadeIn(600).addClass('active-slide');
+  
+    if(nextSlide.length === 0) {
+      nextSlide = $('.slide').first();
+    }
   });
 
   $('#arrow-back').click(function() {
@@ -17,6 +21,10 @@ var main = function () {
   
     currentSlide.fadeOut(600).removeClass('active-slide');
     prevSlide.fadeIn(600).addClass('active-slide');
+  
+    if(prevSlide.length === 0) {
+      prevSlide = $('.slide').first();
+    }
   });  
 }  
 $(document).ready(main);
