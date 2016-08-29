@@ -20,7 +20,7 @@ var main = function () {
     var prevSlide = currentSlide.prev();
   
      if(prevSlide.length === 0) {
-      prevSlide = $('.slide').first();
+      prevSlide = $('.slide').last();
     }
     
     currentSlide.fadeOut(600).removeClass('active-slide');
