@@ -8,7 +8,8 @@ body {
   border-bottom: 0px solid #000;
   height: 150px; 
   background-image: url(http://i.imgur.com/Qe2kYpN.jpg);
-  background-position: center center;
+  background-position: contain;
+  background-repeat: no-repeat;
   position: relative;
   right: 0;
   top: 0;
