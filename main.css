@@ -5,10 +5,10 @@ body {
  text-align: center;
 }
 .header {
-  border-bottom: 1px solid #000;
+  border-bottom: 0px solid #000;
   height: 150px; 
   background-image: url(http://i.imgur.com/cun6xhH.jpg);
-  background-size: auto;
+  background-size: cover;
   position: relative;
   right: 0;
   top: 0;
