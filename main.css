@@ -6,6 +6,7 @@ body {
 }
 .header {
   border-bottom: 0px solid #000;
+  width: 80%;
   height: 150px; 
   background-image: url(http://i.imgur.com/ujr4cYd.jpg);
   background-position: cover;
