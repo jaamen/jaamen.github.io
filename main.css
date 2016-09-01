@@ -50,7 +50,7 @@ p {font-size: 22px; color:#2F4F4F;}
 .slide{display: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
 .active-slide{display: block;}
 
-.chapter-1{margin: 50px; font-size: 24px;}
+.chapter-1{margin: 50px; font-size: 24px; text-decoration: underline;}
 .jumpchapters{margin: 50px; font-size: 24px;}
 .treasurehunt{margin: 50px; font-size: 24px;}
 .aboutme{margin: 50px; font-size: 24px;}
@@ -64,4 +64,4 @@ p {font-size: 22px; color:#2F4F4F;}
 }
 #arrow-back {color: #2F4F4F; font-size: 100px; padding: 600px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;}
 #arrow-forward {color: #2F4F4F; font-size: 100px; padding: 600px; padding-right: 0; padding-top: 0px; padding-bottom: 0px;}
-a:link, a:visited, a:hover, a:active { color: #2F4F4F; text-decoration: underline;}
+a:link, a:visited, a:hover, a:active { color: #2F4F4F; text-decoration: none;}
