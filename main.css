@@ -51,9 +51,9 @@ p {font-size: 22px; color:#2F4F4F;}
 .active-slide{display: block;}
 
 .chapter-1{margin: 50px; font-size: 24px; text-decoration: underline;}
-.jumpchapters{margin: 50px; font-size: 24px;}
-.treasurehunt{margin: 50px; font-size: 24px;}
-.aboutme{margin: 50px; font-size: 24px;}
+.jumpchapters{margin: 50px; font-size: 24px; text-decoration: underline;}
+.treasurehunt{margin: 50px; font-size: 24px; text-decoration: underline;}
+.aboutme{margin: 50px; font-size: 24px; text-decoration: underline;}
 
 .footer {
  position: relative;
