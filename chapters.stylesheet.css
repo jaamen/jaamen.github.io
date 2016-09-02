@@ -4,16 +4,16 @@ body {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .header {
-  text-align: center;
-  border-bottom: 1px solid #000;
-  height: 150px;
-  background-image: url(http://i.imgur.com/GgxWJGy.jpg);
+  border-bottom: 0px solid #000;
+  height: 150px; 
+  background-image: url(http://i.imgur.com/DuYaZnw.jpg?3);
   background-size: cover;
   position: relative;
   right: 0;
   top: 0;
   left: 0;
   padding: 1rem;
+  text-align:center;
 }
 .header h2{color: white;
 }
