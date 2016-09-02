@@ -15,9 +15,9 @@ body {
   padding: 1rem;
   text-align:center;
 }
-.header h2{color: white;
+.header h2{color: #2F4F4F;
 }
-.by{color: white; display: inline-block; float: center; font-size: 30px; text-decoration: bold; margin-left: -150px;
+.by{color: #2F4F4F; display: inline-block; float: center; font-size: 30px; text-decoration: bold; margin-left: -150px;
 }
 .home {
 display: inline-block;
@@ -25,7 +25,7 @@ margin-left: 50px;
  float: left;
  font-size: 20px;
 color: white;
-background-color: red;
+background-color: #2F4F4F;
 padding: 8px 18px;
 border-radius: 10px;
 }
