@@ -17,8 +17,7 @@ body {
 }
 .header h2{color: #2F4F4F;
 }
-.by{color: #2F4F4F; display: inline-block; float: center; font-size: 30px; text-decoration: bold; margin-left: -150px;
-}
+#by{color:#2F4F4F;display: inline-block; vertical-align: center;font-size: 24px;}
 .home {
 display: inline-block;
 margin-left: 50px;
