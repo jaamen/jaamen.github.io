@@ -30,14 +30,14 @@ border-radius: 10px;
 }
 .home a:active {
   position: relative;
-  bottom: 2px;
+  bottom: -2px;
 }
 .prevchapter {
  display: inline-block;
   margin-right: 50px;
   float: right;
  font-size: 20px;
-color: white;
+color: #2F4F4F;
 background-color: red;
 padding: 8px 18px;
 border-radius: 10px;
