@@ -4,34 +4,33 @@ body {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .header {
-  text-align: center;
-  border-bottom: 1px solid #000;
-  height: 150px;
-  background-image: url(http://i.imgur.com/GgxWJGy.jpg);
+  border-bottom: 0px solid #000;
+  height: 150px; 
+  background-image: url(http://i.imgur.com/DuYaZnw.jpg?3);
   background-size: cover;
   position: relative;
   right: 0;
   top: 0;
   left: 0;
   padding: 1rem;
+  text-align:center;
 }
-.header h2{color: white;
+.header h2{color: #2F4F4F;
 }
-.by{color: white; display: inline-block; float: center; font-size: 30px; text-decoration: bold; margin-right:-80px;
-}
+#by{color:#2F4F4F;display: inline-block; vertical-align: center;font-size: 24px;}
 .home {
 display: inline-block;
 margin-left: 50px;
  float: left;
  font-size: 20px;
 color: white;
-background-color: red;
+background-color: #2F4F4F;
 padding: 8px 18px;
 border-radius: 10px;
 }
 .home a:active {
   position: relative;
-  bottom: 2px;
+  bottom: -2px;
 }
 .prevchapter {
  display: inline-block;
@@ -39,7 +38,7 @@ border-radius: 10px;
   float: right;
  font-size: 20px;
 color: white;
-background-color: red;
+background-color: #2F4F4F;
 padding: 8px 18px;
 border-radius: 10px;
 }
@@ -49,13 +48,13 @@ border-radius: 10px;
  float: right;
  font-size: 20px;
 color: white;
-background-color: red;
+background-color: #2F4F4F;
 padding: 8px 18px;
 border-radius: 10px;
 }
 h2{ 
 font-size: 32px; 
-color: black;
+color: #2F4F4F;
 text-align: center;  
 }
 h3{ 
@@ -63,6 +62,7 @@ font-size: 24px;
 text-align: center;  
 }
 p{
+  color: #2F4F4F;
   font-size: 20px;
   margin-left: 100px;
   margin-right:100px;
@@ -71,10 +71,7 @@ p{
 }
 .footer {
  text-align: center;
- border-top: 1px solid #000;
  height: 60px;
- background-image: url(http://i.imgur.com/GgxWJGy.jpg);
- background-size: cover;
  position: absolute;
   right: 0;
   bottom: 0;
@@ -87,7 +84,7 @@ display: inline-block;
  float: left;
  font-size: 20px;
 color: white;
-background-color: red;
+background-color: #2F4F4F;
 padding: 8px 18px;
 border-radius: 10px;
 }
