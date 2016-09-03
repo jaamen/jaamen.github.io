@@ -33,7 +33,7 @@ border-radius: 10px;
   position: relative;
   bottom: -2px;
 }
-.prevchapter {
+#prevchapter {
  display: inline-block;
   margin-right: 50px;
   float: right;
