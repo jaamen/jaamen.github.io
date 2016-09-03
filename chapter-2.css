@@ -35,7 +35,7 @@ border-radius: 10px;
 }
 .prevchapter {
  display: inline-block;
-  margin-left: -50px;
+  margin-right: 50px;
   float: right;
  font-size: 20px;
 color: white;
