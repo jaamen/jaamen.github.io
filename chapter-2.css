@@ -18,7 +18,7 @@ body {
 }
 .header h2{color: #2F4F4F;
 }
-.headcontain {display: inline-block;}
+.headcontain {width: 100%;}
 #by{color:#2F4F4F;display: inline-block; font-size: 24px; margin-left: -138px;}
 .home {
 display: inline-block;
