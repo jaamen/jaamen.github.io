@@ -18,7 +18,7 @@ body {
 }
 .header h2{color: #2F4F4F;
 }
-.headcontain {width: 100%;}
+.headcontain {width: 100%; margin: 0;}
 #by{color:#2F4F4F;display: inline-block; font-size: 24px; margin-left: -138px;}
 .home {
 display: inline-block;
@@ -36,6 +36,8 @@ border-radius: 10px;
 }
 #prevchapter {
  display: inline-block;
+ margin-right: 50px;
+ margin-bottom: 50px;
  font-size: 20px;
 float: right;
 color: white;
