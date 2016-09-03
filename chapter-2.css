@@ -37,6 +37,7 @@ border-radius: 10px;
 #prevchapter {
  display: inline-block;
  font-size: 20px;
+float: right;
 color: white;
 background-color: #2F4F4F;
 padding: 8px 18px;
