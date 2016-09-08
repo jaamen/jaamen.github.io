@@ -48,7 +48,7 @@ font-size: 36px;
 p {font-size: 18px; color:#2F4F4F;}
 .slide-img{position: center; margin: 60px;}
 .slider{position: relative; height: 550px; z-index: 2;}
-.slide{display: none; top: 0; left: 0; height: 100%; width: 100%; position: absolute; z-index: 1;}
+.slide{display: none; top: 0; left: 0; height: 100%; width: 100%; position: absolute;}
 .active-slide{display: block;}
 
 .chapter-1{margin: 50px; font-size: 24px; text-decoration: underline;}
