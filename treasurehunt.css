@@ -38,18 +38,27 @@ margin-top: -25px;
 h2{ 
 font-size: 32px; 
 width: 100%;
+color: 
 }
 p{text-align: left;
   color: #2F4F4F;
   font-size: 20px;
   margin-left: 100px;
   margin-right:100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   text-indent: 50px;
   line-height: 1.5;
 }
 h3{ 
-font-size: 24px; 
+font-size: 30px; 
 width: 100%;
+ }
+ h4{font-size: 30px;
+ color:#2F4F4F;
+ }
+ h5{font-size: 24px;
+ color:#2F4F4F;
  }
 .footer {
   height: 60px;
