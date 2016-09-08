@@ -33,7 +33,7 @@ color: #2F4F4F; display: inline-block; margin-top:-85px; font-size: 20px; positi
   min-width: 250px;
   position: absolute;
 }
-.dropdown-menu li {margin: 20px;border-bottom: 1px solid black;margin-left: -25px; z-index: 1;}
+.dropdown-menu li {margin: 15px;border-bottom: 1px solid black;margin-left: -25px;}
 .dropdown-menu li a{
  margin: 15px;
 }
