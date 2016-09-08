@@ -5,21 +5,34 @@ body {
   text-align: center;
 }
 .header {
-  border-bottom: 1px solid #000;
+  border-bottom: 0px solid #000;
   height: 150px; 
-  background-image: url(http://i.imgur.com/GgxWJGy.jpg);
+  background-image: url(http://i.imgur.com/DuYaZnw.jpg?3);
   background-size: cover;
   position: relative;
   right: 0;
   top: 0;
   left: 0;
   padding: 1rem;
-  color: white;
+  text-align:center;
+  margin-bottom: 75px;
 }
-.home { 
- text-align: right;
+.header h2{color: #2F4F4F;
+}
+#by{color:#2F4F4F;display: inline-block; vertical-align: center;font-size: 24px; margin-left: -138px;}
+.home {
+display: inline-block;
+margin-left: 50px;
+ float: left;
  font-size: 20px;
- margin-right: 50px;
+color: white;
+background-color: #2F4F4F;
+padding: 8px 18px;
+border-radius: 10px;
+}
+.home a:active {
+  position: relative;
+  bottom: -2px;
 }
 h2{ 
 font-size: 32px; 
@@ -29,20 +42,13 @@ h3{
 font-size: 24px; 
 width: 100%;
  }
-.contactme {
-  font-size: 20px;
-  color: white;
-}  
 .footer {
   height: 60px;
   position: absolute;
-  background-image: url(http://i.imgur.com/GgxWJGy.jpg);
-  background-size: cover;
   right: 0;
   bottom: 0;
   left: 0;
   padding: 1rem;
-  border-top: 1px solid #000;
 }
 a:link, a:visited, a:hover, a:active { color: white; text-decoration: none;}
 
