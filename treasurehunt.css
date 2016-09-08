@@ -38,7 +38,7 @@ margin-top: -25px;
 h2{ 
 font-size: 32px; 
 width: 100%;
-color: 
+color: #2F4F4F;
 }
 p{text-align: left;
   color: #2F4F4F;
@@ -54,7 +54,8 @@ h3{
 font-size: 30px; 
 width: 100%;
  }
- h4{font-size: 30px;
+ h4{margin-top: 30px;
+ font-size: 30px;
  color:#2F4F4F;
  }
  h5{font-size: 24px;
