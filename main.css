@@ -22,6 +22,7 @@ body {
  #dropdown-toggle{text-align: center;
 color: #2F4F4F; display: inline-block; margin-top:-85px; font-size: 20px; position: absolute;}
 .dropdown-menu {
+  z-index: 1;
   text-align: center;
   font-size: 20px;
   color: black;
