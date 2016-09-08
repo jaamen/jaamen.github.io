@@ -73,8 +73,8 @@ p{font-size: 32px; color: #2F4F4F;
 }
 
 #homes:link, #homes:visited, #homes:hover, #homes:active {color: white; text-decoration: none;}
-.chapters a:link {color: black; text-decoration: none;}
+.chapters a:link {color: white; text-decoration: none;}
 .chapters a:visited {color: red; text-decoration: none;}
-.chapters a:hover {color: black; text-decoration: none;}
-.chapters a:active {color: black; text-decoration: none;}
+.chapters a:hover {color: white; text-decoration: none;}
+.chapters a:active {color: white; text-decoration: none;}
 
