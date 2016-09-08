@@ -39,7 +39,8 @@ h2{
 font-size: 32px; 
 width: 100%;
 }
-p{color: #2F4F4F;
+p{text-align: left;
+  color: #2F4F4F;
   font-size: 20px;
   margin-left: 100px;
   margin-right:100px;
