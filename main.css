@@ -30,11 +30,11 @@ color: #2F4F4F; display: inline-block; margin-top:-50px; font-size: 20px; positi
   display: none;
   border: 1px solid #000;
   list-style-type: none;
-  margin-top:-40px;
+  margin-top:-20px;
   position: absolute;
   min-width: 250px;
 }
-.dropdown-menu li {margin: 20px;border-bottom: 1px solid black;margin-left: -25px;}
+.dropdown-menu li {margin: 20px;border-bottom: 1px solid black;margin-left: -25px; position: absolute;}
 .dropdown-menu li a{
  margin: 20px;
 }
