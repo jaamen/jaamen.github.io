@@ -52,16 +52,15 @@ p{font-size: 32px; color: #2F4F4F;
  margin: 60px;
  color: black;
  display: inline-block;
+ background-color: #2F4F4F;
+  padding: 8px 18px;
+  border-radius: 10px;
 }
 .chapters ul{
   display: inline-block;
   text-align: center;
   font-size: 0;
   padding: 0px;
-  color: white;
-  background-color: #2F4F4F;
-  padding: 8px 18px;
-  border-radius: 10px;
 }
 .footer {
   height: 60px;
