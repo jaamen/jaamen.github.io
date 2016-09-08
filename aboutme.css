@@ -5,7 +5,6 @@ margin: 0px;
  text-align: center;
 }
 .header {
-  border-bottom: 0px solid #000;
   height: 150px; 
   background-image: url(http://i.imgur.com/DuYaZnw.jpg?3);
   background-size: cover;
@@ -49,10 +48,10 @@ width: 100%;
 }  
 .footer {
   height: 60px;
+  position: absolute;
   right: 0;
   bottom: 0;
   left: 0;
   padding: 1rem;
- border-top: 1px solid #000;
 }
 a:link, a:visited, a:hover, a:active { color: white; text-decoration: none;}
