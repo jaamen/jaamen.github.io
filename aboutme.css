@@ -41,11 +41,14 @@ width: 100%;
 h3{ 
 font-size: 24px; 
 width: 100%;
+margin: 40px;
+color: #2F4F4F;
  }
-.contactme {
-  font-size: 20px;
-  color: white;
-}  
+ p{
+font-size: 18px;
+margin: 40px;
+color: #2F4F4F;
+}
 .footer {
   height: 60px;
   position: absolute;
