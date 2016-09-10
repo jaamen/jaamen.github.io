@@ -65,15 +65,16 @@ text-align: center;
 p{
   color: #2F4F4F;
   font-size: 20px;
-  margin-left: 100px;
-  margin-right:100px;
+  margin: 1.5;
+  margin-left: 150px;
+  margin-right:150px;
   text-indent: 50px;
   line-height: 1.5;
 }
 .footer {
  text-align: center;
  height: 60px;
- position: absolute;
+ position: relative;
   right: 0;
   bottom: 0;
   left: 0;
